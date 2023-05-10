@@ -1,0 +1,26 @@
+* {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-color {
+  background-color: $blue-700;
+}
+
+/* Базовый цвет #032e73 */
+
+.advText {
+  justify-content: center;
+
+}
+
+.modal-size {
+  font-size: 10px;
+}
